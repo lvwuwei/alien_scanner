@@ -1,5 +1,3 @@
-# alien_scanner
-suisse knife have tools sql_injection,Port Scanner,wordpresse scanner,Sensitive File Detection,click jacking etc
 # Alien_Scanner
 Alien_Scanner - Pentest the Modern Web
 
@@ -29,4 +27,5 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 # Powerful XSS vulnerability scanning
 # SQL Injection vulnerability scanning
 # User-Friendly UI
+
 
