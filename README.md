@@ -1,8 +1,13 @@
+download  git clone https://github.com/lvwuwei/alien_scanner.git
+usage: #cd alien_scanner
+       #chmod +x *
+       #python alien_scanner.py
+       select numbre 1-8   and put target ex: www.byy3.com
+H4CKG3H2Y1 IT Zone Alien_Scanner"Tool For Kali Linux/Debian/Parrot/Ubuntu 2020
 # Alien_Scanner
 Alien_Scanner - Pentest the Modern Web
 
-Author: [MR.X]>>Bangladesh Syber Pro
-
+Author: [MR.X]>>edit guohy>H4CKG3H2Y1
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
 
 ###Compatibility:
